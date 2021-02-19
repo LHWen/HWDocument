@@ -231,3 +231,16 @@ var x = 'It\'s good to see you again';
 | \t   | 水平制表符 |
 | \v   | 垂直制表符 |
 
+
+
+### 约束验证 HTML 输入属性-input
+
+| 属性     | 描述                      |
+| :------- | :------------------------ |
+| disabled | 规定 input 元素应该被禁用 |
+| max      | 规定 input 元素的最大值   |
+| min      | 规定 input 元素的最小值   |
+| pattern  | 规定 input 元素的值模式   |
+| required | 规定输入字段需要某个元素  |
+| type     | 规定 input 元素的类型     |
+
